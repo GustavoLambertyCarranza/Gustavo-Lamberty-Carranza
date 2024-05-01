@@ -1,10 +1,12 @@
-Gustavo-Lamberty-Carranza
+# About Me
 
-<h2 style="color: purple;">Facts about me i guess 🤔🙄😨🥶🤠
+<span style="color: purple;">
+  <h3>Little facts about me, I guess</h3>
+</span>
 
-- 🙈 Age: 18
-- 💅 Pronouns: Any
-- 💜 Fav Color: Purple
-- 🦝 Fav Animal: Raccoon
-- 🍣 Fav Food: Sushi
-- 🎈 Hobbies: Gaming, hanging out and programming.
+- 🙈 **Age:** 18
+- 💅 **Pronouns:** Any
+- 💜 **Fav Color:** Purple
+- 🦝 **Fav Animal:** Raccoon
+- 🍣 **Fav Food:** Sushi
+- 🎈 **Hobbies:** Hanging out, gaming and programming.
