@@ -1,6 +1,6 @@
-# Gustavo-Lamberty-Carranza
+Gustavo-Lamberty-Carranza
 
-Facts about me i guess 🤔🙄😨🥶🤠
+<h2 style="color: purple;">Facts about me i guess 🤔🙄😨🥶🤠
 
 - 🙈 Age: 18
 - 💅 Pronouns: Any
